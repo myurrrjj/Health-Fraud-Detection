@@ -1,14 +1,1 @@
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-xgboost
-lightgbm
-shap
-imbalanced-learn
-fastapi
-uvicorn
-streamlit
-joblib
-notebook
+-e .
